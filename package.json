@@ -1,0 +1,15 @@
+{
+  "name": "babel-preset-grape",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "git@github.com:subbu963/babel-preset-grape.git",
+  "author": "aditya subramanyam <subramanyam963@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/plugin-syntax-jsx": "^7.2.0",
+    "@babel/plugin-transform-react-jsx": "^7.3.0"
+  },
+  "peerDependencies": {
+    "@babel/core": "^7.2.2"
+  }
+}
